@@ -3,6 +3,8 @@
 		<link rel="stylesheet" type="text/css" href="test.css">
 	</head>
 	<body>
+		background-color: blue;
+		color: gray;
 		<h1> Message </h1>
 	</body>
 </html>
